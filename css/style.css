@@ -1,0 +1,11 @@
+body{
+    background-image: url("../img/background.jpeg");
+}
+* {
+    cursor: none;
+}
+
+#field{
+    display: block;
+    margin: 0 auto;
+}
