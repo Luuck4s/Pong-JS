@@ -2,7 +2,6 @@
 <p align="center">
   <img src="img/screenshotGame.png" width="500">
 </p>
-## Hi!
 
 Hi, my name is Lucas and this is a project where I recreated the famous Pong game.
 
